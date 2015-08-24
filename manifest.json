@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Jinglepie Page Saver",
+  "description": "This extension will save the current page to Jinglepie",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+                                ]
+}
