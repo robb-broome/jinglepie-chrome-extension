@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
       d = document;
 
       var f = d.createElement('form');
-      f.action = 'http://www.jinglepie.com/nodes';
+      f.action = 'http://www.jinglepie.com/nodes/new';
       f.method = 'post';
       var i = d.createElement('input');
       i.type = 'text';
